@@ -14,16 +14,16 @@ Roberto José Mahl
 
 #### Tecnologias
 
-Vue.js
-Spring Boot
-PostgreSQL
+- Vue.js
+- Spring Boot
+- PostgreSQL
 
 #### Ambiente de desenvolvimento
 
-pgAdmin 4
-IntelliJ IDEA
-VSCode
-Postman
+- pgAdmin 4
+- IntelliJ IDEA
+- VSCode
+- Postman
 
 #### Créditos
 
