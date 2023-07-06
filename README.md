@@ -1,51 +1,42 @@
 # Preencha aqui o título do projeto
 
-> 1. Baixe este arquivo e edite o texto em formato Markdown conforme as instruções a seguir.
-> 2. Substitua todos os blocos "Preencha aqui" por informações do seu projeto. 
-> 3. Substitua a imagem por pelo menos um screenshot do projeto (arquivo pode ser armazenado no repositório ou em URL externa). GIFs animados também são permitidos!
-> 4. Remova todas as instruções de entrega.
-> 5. Double-check: Certifique-se de que seu README.md não contenha instruções de entrega!
-> 6. Entregue este README.md dentro da pasta raiz do seu repositório de entrega. 
-
-> Opcional: você pode alterar a formatação do README, mas mantenha todas as informações solicitadas
-
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
-
-
 #### Descrição
 
-Preencha aqui uma descrição sucinta do projeto (tema e funcionalidades)
+Projeto para auxílio na manutenção de plantas domésticas. Permite controle de regas, adubação e acervo.
 
 #### Deploy
 
-Preencha aqui a URL para acesso ao site publicado
-
+Fiz apenas do banco de dados, no Render.
 
 #### Desenvolvedor(es)
-Preencha nomes aqui
 
+Roberto José Mahl
 
 #### Tecnologias
 
-Preencha aqui uma lista detalhada de tecnologias usadas para frontend, backend e persistência de dados
+Vue.js
+Spring Boot
+PostgreSQL
 
 #### Ambiente de desenvolvimento
 
-Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas
+pgAdmin 4
+IntelliJ IDEA
+VSCode
+Postman
 
 #### Créditos
 
-Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
-- URL de templates usados
-- URL de icon kits usados
-- Créditos para colegas que colaboraram
+- https://www.bezkoder.com/spring-boot-postgresql-example/
+- https://www.youtube.com/watch?v=cSa-SMVMGsE  
 
 #### Bastidores
 
+Infelizmente, não consegui entregar um front-end para este projeto. Em meio à loucura do semestre, não tive foco para aprender o framework da maneira que gostaria dentro do prazo deste trabalho. Além disso, o tutorial que me direcionou também trouxe problemas que levei um tempo exacerbado para resolver: meu projeto de exemplo não rodava, tive problemas usando Windows, etc. 
 
-Preencha aqui um breve relato dos bastidores e das particularidades do desenvolvimento do projeto, por exemplo: escolha do tema, algum detalhe marcante sobre as tecnologias usadas/aprendidas, bugs encontrados, alguma parte mais trabalhosa de implementar, etc.
+O back-end está funcional, com um protótipo do que tinha imaginado para o projeto inicialmente. Integrei o projeto Spring Boot, em Java, ao meu banco de dados e consegui validar a API com auxílio do Postman. O banco de dados teve deploy na plataforma Render, e consegui utilizá-lo remotamente.
 
-
+Quando, finalmente, consegui rodar o projeto demo, não estava mais em tempo hábil para fazer um demo. Sendo assim, resolvi discutir a situação com a professora e optei por focar no projeto final. Neste, fiz questão de usar Vue.js para superar o bloqueio que esse projeto me trouxe. 
 
 ---
 Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2023a) em 2023a
